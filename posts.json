@@ -37,5 +37,25 @@
         "Commodo cillum Lorem aliqua laborum. Culpa anim eiusmod excepteur minim fugiat amet officia amet eu cupidatat irure sint. Do culpa laborum et ipsum ipsum dolor ea nostrud anim cupidatat laborum sint. Fugiat consequat est cupidatat aliquip in et est voluptate. Non id deserunt elit minim duis qui id irure. Aliquip excepteur commodo culpa enim magna consequat laborum voluptate nulla aliqua ea. Voluptate tempor esse exercitation incididunt sit aute ad cillum.",
         "me siga para mais conteudos sobre ia!!"
       ]
-    }
+    },
+    {
+        "id": 2,
+        "title": "images, links and text formatation in markdown",
+        "author": "mitybp",
+        "date": "02/01/2024",
+        "tags": ["Markdown"],
+        "content": [
+            "## Image",
+            "![image](https://cdn.sstatic.net/Img/home/illo-teams.svg?v=7e543f14fcc0)",
+            "## links",
+            "google.com",
+            "[link](https://mitybp.pages.dev)",
+            "## text formatation",
+            "---",
+            "**bold**",
+            "*italic*",
+            "~~wevewfvwv~~",
+            "> blockquote",
+            "`one line code`",
+            "```pipipipopopo\npipipipopopo\npipipipopopo```"
   ]
