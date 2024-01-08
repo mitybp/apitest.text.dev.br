@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Python",
+        "posts": [
+            0
+        ]
+    },
+    {
+        "name": "Flask",
+        "posts": [
+            0
+        ]
+    },
+    {
+        "name": "IA",
+        "posts": [
+            1
+        ]
+    },
+    {
+        "name": "Cursos",
+        "posts": [
+            1
+        ]
+    },
+    {
+        "name": "Markdown",
+        "posts": [
+            2
+        ]
+    }
+]
