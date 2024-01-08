@@ -3,30 +3,35 @@
         "name": "Python",
         "posts": [
             0
-        ]
+        ],
+        "id": 0
     },
     {
         "name": "Flask",
         "posts": [
             0
-        ]
+        ],
+        "id": 1
     },
     {
         "name": "IA",
         "posts": [
             1
-        ]
+        ],
+        "id": 2
     },
     {
         "name": "Cursos",
         "posts": [
             1
-        ]
+        ],
+        "id": 3
     },
     {
         "name": "Markdown",
         "posts": [
             2
-        ]
+        ],
+        "id": 4
     }
 ]
