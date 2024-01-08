@@ -1,0 +1,20 @@
+[
+    {
+        "username": "mitybp",
+        "name": "Dimitri Barcelos Pusch",
+        "email": "dimitribpusch21@gmail.com",
+        "posts": [0, 2],
+        "description": "Exercitation excepteur duis do do quis reprehenderit laboris cupidatat laborum ut.",
+        "codes": [0],
+        "id": 0
+    },
+    {
+        "username": "alfredofrederico",
+        "name": "Alfredo Frederico Costa",
+        "email": "alfredocosta@gmail.com",
+        "posts": [1],
+        "description": "Qui culpa eiusmod amet cillum sint non incididunt.",
+        "codes": [],
+        "id": 1
+    }
+]
