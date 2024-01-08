@@ -3,6 +3,7 @@
     "id": 0,
     "title": "aprenda a fazer um site com python",
     "author": "mitybp",
+    "author_id": 0,
     "date": "29/12/2023",
     "tags": ["Python", "Flask"],
     "content": [
@@ -20,6 +21,7 @@
     "id": 1,
     "title": "cursos gratuitos de ia (com certificado)",
     "author": "alfredofrederico",
+    "author_id": 1,
     "date": "31/12/2023",
     "tags": ["IA", "Cursos"],
     "content": [
@@ -42,6 +44,7 @@
       "id": 2,
       "title": "images, links and text formatation in markdown",
       "author": "mitybp",
+      "author_id": 0,
       "date": "02/01/2024",
       "tags": ["Markdown"],
       "content": [
