@@ -1,0 +1,52 @@
+[
+    {
+        "language": "JavaScript",
+        "file": "string_format.js",
+        "author": "mitybp",
+        "content": [
+            "const format = (str) => {",
+            "  return str",
+            "    .normalize('NFD')",
+            "    .replace(/[\u0300-\u036f]/g, ')",
+            "    .replaceAll(' ', '-')",
+            "    .toLowerCase()",
+            "    .replaceAll('?', ')",
+            "    .replaceAll('!', ')",
+            "    .replaceAll('°', ')",
+            "    .replaceAll(',', ')",
+            "    .replaceAll('/', ');",
+            "};"
+        ],
+        "id": 0
+    },
+    {
+        "language": "JavaScript",
+        "file": "console_log.js",
+        "author": "mitybp",
+        "content": [
+            "let result = 1 + 1;",
+            "console.log(result);"
+        ],
+        "id": 1
+    },
+    {
+        "language": "Python",
+        "file": "time_random.py",
+        "author": "cleusocarimbo",
+        "content": [
+            "import time, random"
+        ],
+        "id": 2
+    },
+    {
+        "language": "CSS",
+        "file": "background.css",
+        "author": "alfredofrederico",
+        "content": [
+            "body {",
+            "  background-color: #f00;",
+            "}"
+        ],
+        "id": 3
+    }
+]
