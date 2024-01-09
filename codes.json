@@ -1,6 +1,6 @@
 [
     {
-        "language": "JavaScript",
+        "language": "js",
         "file": "string_format.js",
         "author": "mitybp",
         "date": "09/01/2024",
@@ -21,7 +21,7 @@
         "id": 0
     },
     {
-        "language": "JavaScript",
+        "language": "js",
         "file": "console_log.js",
         "author": "mitybp",
         "date": "07/01/2024",
@@ -32,7 +32,7 @@
         "id": 1
     },
     {
-        "language": "Python",
+        "language": "py",
         "file": "time_random.py",
         "author": "cleusocarimbo",
         "date": "04/01/2024",
@@ -42,7 +42,7 @@
         "id": 2
     },
     {
-        "language": "CSS",
+        "language": "css",
         "file": "background.css",
         "author": "alfredofrederico",
         "date": "02/01/2024",
