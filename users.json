@@ -3,18 +3,27 @@
         "username": "mitybp",
         "name": "Dimitri Barcelos Pusch",
         "email": "dimitribpusch21@gmail.com",
-        "posts": [0, 2],
+        "posts": [0, 2, 3],
         "description": "Exercitation excepteur duis do do quis reprehenderit laboris cupidatat laborum ut.",
-        "codes": [0],
+        "codes": [0, 1],
         "id": 0
     },
     {
         "username": "alfredofrederico",
         "name": "Alfredo Frederico Costa",
         "email": "alfredocosta@gmail.com",
-        "posts": [1],
+        "posts": [1, 5],
         "description": "Qui culpa eiusmod amet cillum sint non incididunt.",
-        "codes": [],
+        "codes": [3],
         "id": 1
+    },
+    {
+        "username": "cleusocarimbo",
+        "name": "Cleuso Carimbo Carlos",
+        "email": "cleuso.carimbo@gmail.com",
+        "posts": [4, 6],
+        "description": "Consectetur enim nulla cupidatat occaecat.",
+        "codes": [2],
+        "id": 2
     }
 ]
