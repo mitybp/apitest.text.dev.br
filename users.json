@@ -5,6 +5,7 @@
         "email": "dimitribpusch21@gmail.com",
         "posts": [0, 2, 3],
         "description": "Exercitation excepteur duis do do quis reprehenderit laboris cupidatat laborum ut.",
+        "url": "https://mitybp.pages.dev",
         "codes": [0, 1],
         "id": 0
     },
@@ -14,6 +15,7 @@
         "email": "alfredocosta@gmail.com",
         "posts": [1, 5],
         "description": "Qui culpa eiusmod amet cillum sint non incididunt.",
+        "url": "https://alfredofrederico.pages.dev",
         "codes": [3],
         "id": 1
     },
@@ -23,6 +25,7 @@
         "email": "cleuso.carimbo@gmail.com",
         "posts": [4, 6],
         "description": "Consectetur enim nulla cupidatat occaecat.",
+        "url": "https://cleusocarimbo.pages.dev",
         "codes": [2],
         "id": 2
     }
